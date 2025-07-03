@@ -24,7 +24,8 @@
   <img src="https://img.shields.io/badge/Japanese(Fluency)-007396?style=for-the-badge&logo=Japanese&logoColor=white">
   <img src="https://img.shields.io/badge/English(Daily Conversation)-007396?style=for-the-badge&logo=English&logoColor=white">
   <img src="https://img.shields.io/badge/Chinese(Beginner)-007396?style=for-the-badge&logo=Chinese&logoColor=white">
-</div></br></br></br>
+</div></br></
+br></br>
 
 <!-- Skills -->
 <div>
@@ -87,6 +88,7 @@
 <!-- Certifications -->  
 <div>
   <h2> I have following Certification :</h2>
+  <div> 07/03/2025 | 応用情報技術者(AP) </div>
   <div> 05/25/2025 | AWS Certified Developer - Associate (DVA-C02) </div>
   <div> 01/19/2025 | Oracle Cloud Infrastructure 2024 Foundations Associate </div>
   <div> 11/24/2025 | PHP技術者認定試験初級 </div>
