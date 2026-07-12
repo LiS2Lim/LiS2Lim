@@ -88,6 +88,7 @@ br></br>
 <!-- Certifications -->  
 <div>
   <h2> I have following Certification :</h2>
+  <div> 07/12/2026 | Cisco Certified Network Associate (200-301) </div>
   <div> 07/03/2025 | 応用情報技術者(AP) </div>
   <div> 05/25/2025 | AWS Certified Developer - Associate (DVA-C02) </div>
   <div> 01/19/2025 | Oracle Cloud Infrastructure 2024 Foundations Associate </div>
